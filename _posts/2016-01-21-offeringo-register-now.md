@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Landing Page B2B
-datePublished: '2016-01-21T16:47:36.071Z'
-dateModified: '2016-01-21T16:47:12.938Z'
+datePublished: '2016-01-22T23:18:36.682Z'
+dateModified: '2016-01-22T23:18:25.034Z'
 title: Offeringo - Register Now
 author: []
+sourcePath: _posts/2016-01-21-offeringo-register-now.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-offeringo-register-now.md
-published: true
 url: offeringo-register-now/index.html
 _type: Article
 
