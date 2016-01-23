@@ -3,9 +3,9 @@ favicon: null
 name: Offeringo Landing Page
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -23,11 +23,11 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 color:
-  brandStrength: 1
+  brandStrength: 0.3255319
   lightness: 0.3786731527652591
   saturation: 0.3783901855349541
   rhythmicContrast: 0.3794742459431291
